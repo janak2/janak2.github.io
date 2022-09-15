@@ -1770,7 +1770,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		overflow: auto;
+		overflow-x: auto;
 		text-align: center;
 		height: 4.25em;
 		cursor: default;
